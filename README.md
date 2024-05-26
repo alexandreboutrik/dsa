@@ -13,8 +13,9 @@ This repository contains my study codes and implementations of various data stru
 
 Currently, the implementations are available in the following programming languages:
 
-- C99
-- Ada
+| C99 | Ada |
+|:---:|:---:|
+| <img src="./.media/c-original.svg" width="64" height="64" /> | <img src="./.media/ada.png" width="64" height="64" /> |
 
 ## Topics
 
