@@ -15,7 +15,7 @@ Currently, the implementations are available in the following programming langua
 
 | C99 | Ada |
 |:---:|:---:|
-| <img src="./.media/c-original.svg" width="64" height="64" /> | <img src="./.media/ada.png" width="64" height="64" /> |
+| <img src="https://raw.githubusercontent.com/alexandreboutrik/alexandreboutrik/main/media/c-original.svg" width="64" height="64" /> | <img src="https://raw.githubusercontent.com/alexandreboutrik/alexandreboutrik/main/media/ada.png" width="64" height="64" /> |
 
 ## Topics
 
