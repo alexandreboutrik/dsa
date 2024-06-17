@@ -1,0 +1,48 @@
+[ 1 5 2 7 4 6 9 3 8 ] (9 ilhas, 11 pontes)
+Total: 1 arquipelagos
+
+1 -> 5 -> 7 (2 pontes)
+
+Nivel da agua: 200 m
+
+[ 1 4 6 9 3 8 ] (6 ilhas, 6 pontes)
+[ 2 5 7 ] (3 ilhas, 2 pontes)
+Total: 2 arquipelagos
+
+sem caminho entre 1 e 7
+
+9 -> 6 -> 4 -> 1 (3 pontes)
+
+1 -> 3 (1 pontes)
+
+Nivel da agua: 400 m
+
+[ 1 4 6 9 8 ] (5 ilhas, 4 pontes)
+[ 2 5 7 ] (3 ilhas, 2 pontes)
+[ 3 ] (1 ilhas, 0 pontes)
+Total: 3 arquipelagos
+
+sem caminho entre 1 e 7
+
+9 -> 6 -> 4 -> 1 (3 pontes)
+
+sem caminho entre 1 e 3
+
+Nivel da agua: 500 m
+
+sem caminho entre 9 e 1
+
+[ 1 ] (1 ilhas, 0 pontes)
+[ 2 5 7 ] (3 ilhas, 2 pontes)
+[ 3 ] (1 ilhas, 0 pontes)
+[ 4 6 ] (2 ilhas, 1 pontes)
+[ 8 ] (1 ilhas, 0 pontes)
+[ 9 ] (1 ilhas, 0 pontes)
+Total: 6 arquipelagos
+
+Nivel da agua: 0 m
+
+6 -> 4 -> 5 -> 2 (3 pontes)
+
+[ 1 5 2 7 4 6 9 3 8 ] (9 ilhas, 11 pontes)
+Total: 1 arquipelagos

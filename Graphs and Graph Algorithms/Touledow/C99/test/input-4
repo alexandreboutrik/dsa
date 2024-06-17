@@ -1,0 +1,31 @@
+9 11
+1 2 42
+1 3 350
+4 1 442
+4 5 150
+7 5 610
+5 2 527
+6 8 450
+3 6 210
+6 4 700
+6 9 420
+1 5 200
+arq
+caminho 1 7
+agua 200
+arq
+caminho 1 7
+caminho 9 1
+caminho 1 3
+agua 400
+arq
+caminho 1 7
+caminho 9 1
+caminho 1 3
+agua 500
+caminho 9 1
+arq
+agua 0
+caminho 6 2
+arq
+fim
