@@ -11,7 +11,7 @@
 
 static void
 depth_first_search(graph *g, uint8_t v,
-                   uint8_t *vertex, uint8_t *n_isl, uint8_t *n_brd)
+                   uint8_t *vertex, uint8_t *n_isl, uint32_t *n_brd)
 {
     vertex[v] = 1;
 
@@ -38,7 +38,8 @@ archplg(graph *g)
 {
     graph_node  *nbr;
     uint8_t     *vertex;
-    uint8_t      n_archplg, n_isl, n_brd;
+    uint32_t     n_brd;
+    uint8_t      n_archplg, n_isl;
 
     register uint8_t v;
 
